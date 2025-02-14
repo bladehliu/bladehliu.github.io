@@ -64,18 +64,6 @@ CubeFlow aims to capture a significant share of this market by offering next-gen
 * ROS1/2: long history, open-source; limited storage, no cloud, no indexing, locks AI-native support
 * Custom In-House Solutions: tailored for specific companies; high development & maintenance costs
 
-**CubeFlow Compared to Traditional Robotic Middleware** 
-
-
-| Feature              | Traditional Middleware          | CubeFlow        |  
-|----------------------|---------------------------------|-----------------|
-| **Communication** | Uses ROS topics/services | Cloud-native APIs & event-driven processing |
-| **Data Storage** | Limited built-in support | Native support for unlimited storage, labels, annotations & retrieval |
-| **AI Integration** | Needs external processing | Direct AI/ML workflow integration |
-| **Cloud & Edge** | Mostly local | Hybrid (cloud + edge) |
-| **Multi-Robot Coordination** | Requires additional frameworks | Built-in scalability for multi-robot data management |
-
-
 
 ## **3. Product & Technology**
 
@@ -116,16 +104,16 @@ CubeFlow aims to capture a significant share of this market by offering next-gen
 
 ### **Comparison vs. Other Platforms**
 
-| **Feature**         | **Cubeflow** | **ROS** | **NVIDIA Isaac / AWS RoboMaker** |
-|---------------------|--------------|---------|-------------------------------|
-| **Ease of Use**     | High (low-code, web-based) | Low (requires coding, complex configuration) | Medium (requires cloud SDKs) |
-| **Cloud-Native**    | Strong | Weak (requires manual cloud integration) | Strong (AWS RoboMaker) |
-| **Multi-Language**  | Python, Go, JS | Mainly C++, Python | Mainly Python |
-| **Hardware Support**| High (API + plugins) | High (large open-source community) | Medium (Jetson-focused) |
-| **Dataflow Storage & Analytics**|Dedicated built-in implementation | No built-in support | No built-in support |
-| **AI/ML Support**   | Strong (local & cloud AI) | Requires manual TensorFlow/PyTorch integration | Medium |
-| **Task Scheduling** | Built-in | Requires custom implementation | Cloud-based |
-
+| **Feature**         | **Cubeflow** | **ROS** | **NVIDIA Isaac** | **AWS RoboMaker** |
+|---------------------|--------------|---------|------------------|------------|
+| **Ease of Use**     | High (low-code, web-based) | Low (requires coding) | Low (complex configuration) | Medium (requires cloud SDKs) |
+| **Cloud or Edge**    | Hybrid | Loal | Local | Cloud |
+| **Multi-Language**  | Python, Go, JS | C++/Python | C++/Python | Mainly Python |
+| **Hardware Support**| High (API + plugins) | High (large open-source community) | Medium (Jetson-focused) | Simulation |
+| **Data Storage & Analytics**|Dedicated built-in implementation | No built-in support | No | No |
+| **AI/ML Support**   | Strong (local & cloud AI) | Manual integration | Manual integration | SageMaker |
+| **Task Scheduling** | Built-in | Requires custom implementation | Local compute | Cloud-based |
+| **Multi-Robot Coordination** | Built-in scalability for multi-robot data management | Requires additional frameworks | No | Fleet management |
 
 ## **4. Business & Revenue Model**
 
