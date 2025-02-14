@@ -1,4 +1,4 @@
-# CubeFlow: Cloud-Native Robotics Platform
+# CubeFlow
 
 ## **1. Executive Summary**
 
