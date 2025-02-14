@@ -1,4 +1,4 @@
-# CubeFlow: Robotic Data and AI Platform
+# CubeFlow: Cloud-Native Robotics Platform
 
 ## **1. Executive Summary**
 
