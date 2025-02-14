@@ -45,13 +45,6 @@ CubeFlow aims to capture a significant share of this market by offering next-gen
 - Cloud-Edge Synergy: Seamless hybrid deployment
 - Developer-Friendly: Open API and SDKs for easy integration
 
-### **Financial Projections**
-
-- **Break-even:** Within 18-24 months
-
-### **Funding Requirements**
-
-Seeking XXXW in the first funding to accelerate product development, expand sales & marketing, and build strategic partnerships with leading robotics companies.
 
 ## **2. Market Analysis**
 
@@ -78,7 +71,7 @@ Seeking XXXW in the first funding to accelerate product development, expand sale
 |----------------------|---------------------------------|-----------------|
 | **Communication** | Uses ROS topics/services | Cloud-native APIs & event-driven processing |
 | **Data Storage** | Limited built-in support | Native support for unlimited storage, labels, annotations & retrieval |
-| **AI Integration** | Needs external storage & processing | Direct AI/ML workflow integration |
+| **AI Integration** | Needs external processing | Direct AI/ML workflow integration |
 | **Cloud & Edge** | Mostly local | Hybrid (cloud + edge) |
 | **Multi-Robot Coordination** | Requires additional frameworks | Built-in scalability for multi-robot data management |
 
@@ -123,13 +116,14 @@ Seeking XXXW in the first funding to accelerate product development, expand sale
 
 ### **Comparison vs. Other Platforms**
 
-| **Feature**        | **CF** | **ROS** | **NVIDIA Isaac / AWS RoboMaker** |
-|--------------------|---------|---------------------------------|-------------------------------|
-| **Ease of Use**    | High (low-code, web-based) | Low (requires coding, complex configuration) | Medium (requires cloud SDKs) |
-| **Cloud-Native**   | Strong | Weak (requires manual cloud integration) | Strong (AWS RoboMaker) |
-| **Multi-Language** | Python, Go, JS | Mainly C++, Python | Mainly Python |
-| **Hardware Support** | High (API + plugins) | High (large open-source community) | Medium (Jetson-focused) |
-| **AI/ML Support**  | Strong (local & cloud AI) | Requires manual TensorFlow/PyTorch integration | Strong (AWS AI services) |
+| **Feature**         | **Cubeflow** | **ROS** | **NVIDIA Isaac / AWS RoboMaker** |
+|---------------------|--------------|---------|-------------------------------|
+| **Ease of Use**     | High (low-code, web-based) | Low (requires coding, complex configuration) | Medium (requires cloud SDKs) |
+| **Cloud-Native**    | Strong | Weak (requires manual cloud integration) | Strong (AWS RoboMaker) |
+| **Multi-Language**  | Python, Go, JS | Mainly C++, Python | Mainly Python |
+| **Hardware Support**| High (API + plugins) | High (large open-source community) | Medium (Jetson-focused) |
+| **Dataflow Storage & Analytics**|Dedicated built-in implementation | No built-in support | No built-in support |
+| **AI/ML Support**   | Strong (local & cloud AI) | Requires manual TensorFlow/PyTorch integration | Medium |
 | **Task Scheduling** | Built-in | Requires custom implementation | Cloud-based |
 
 
@@ -140,12 +134,6 @@ Seeking XXXW in the first funding to accelerate product development, expand sale
 1. Enterprise Partnerships: Co-develop CubeFlow with robotics leaders to ensure real-world adoption.
 2. SaaS Subscriptions: Offer cloud-based CubeFlow services to robotics startups & AI researchers.
 3. OEM Integration: License CubeFlow as a built-in dataflow engine for robotic hardware vendors.
-
-### **Revenue Streams**
-
-* SaaS subscripton of CubeFlow Cloud: XW/month (tiered pricing)
-* On-premise deployment: XW annually
-* Consulting and integration: XW per project
 
 
 ## **5. Roadmap & Milestones**
@@ -181,23 +169,4 @@ Seeking XXXW in the first funding to accelerate product development, expand sale
 
 Several founders or executives of robots and intelligent IoT enterprises
 
-## **7. Financial Plan & Funding**
 
-### **Financial Projections (3-Year Outlook)**
-
-| Year       | Revenue | Expenses | Net Profit |
-| ---------- | ------- | -------- | ---------- |
-| **Year 1** | XM    | XM     | -XM      |
-| **Year 2** | XXM   | XXM    | XM       |
-| **Year 3** | XXM   | XXM    | XXM       |
-
-### **Funding Needs & Use of Funds**
-
-Seeking XXXW as the first funding to scale engineering, sales, and product development; allocation: 70% R&D, 20% cloud infrastructure, 10% operations.
-
----
-
-## **8. Conclusion**
-
-CubeFlow is poised to become the **de facto dataflow standard for robotics**, transforming how robots manage and process data. 
-With strong market demand, a cutting-edge product, and a scalable business model, we are ready to build the future of robotic dataflow! 
