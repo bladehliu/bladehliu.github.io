@@ -4,11 +4,11 @@
 
 ### **Mission Statement:**  
 
-*"CubeFlow empowers next-generation robotics with an innovative tech platform, seamlessly integrating data management, AI processing, and cloud-edge collaboration to simplify development and enhance intelligence."*
+*"CubeFlow empowers real-world devices with an innovative tech platform, seamlessly integrating data management, AI processing, and cloud-edge collaboration to simplify development and enhance intelligence."*
 
 ### **Overview**
 
-CubeFlow is built as a cloud-native robotic data and AI platform. 
+CubeFlow is built as the data and AI platform for devices in the physical world, enabling intelligent data processing and automation for robots, drones, smart cameras, autonomous vehicles, industrial machines, and so on.
 
 By effectively managing data pipelines from the edge to the cloud, it enables seamless data ingestion, storage, analytics, labeling and learning. 
 
