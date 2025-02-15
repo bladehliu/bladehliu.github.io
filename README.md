@@ -10,7 +10,7 @@
 
 ### 工作履历
 
-2024 - 至今，Stealth Startup
+2025 - 至今，Stealth Startup
 
 2020 - 2024，OPPO
 * 担任互联网CTO与数智工程事业部总裁
