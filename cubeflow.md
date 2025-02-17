@@ -8,7 +8,7 @@
 
 ### **Overview**
 
-CubeFlow is built as the data and AI platform for devices in the physical world, enabling intelligent data processing and automation for robots, drones, smart cameras, autonomous vehicles, industrial machines, and so on.
+CubeFlow is built as an AI-powered cloud-native platform for devices in the physical world. 
 
 By effectively managing data pipelines from the edge to the cloud, it enables seamless data ingestion, storage, analytics, labeling and learning. 
 
@@ -86,7 +86,7 @@ CubeFlow aims to capture a significant share of this market by offering next-gen
 
 1. Multi-Modal Data Management: Supports LiDAR, cameras, radar, and other sensors.
 2. Edge-Cloud Dataflow Optimization: Intelligent caching and scalable storage & computation. 
-3. AI-Enhanced Data Pipelines: Automated data annotation, filtering, and _real-time online learning_.
+3. AI workflows: Automated labeling and annotation, model training or tuning, and _real-time online learning_.
 4. Compute-Storage Separation: Highly scalable data infrastructure with low-latency indexing with timestamps + labels.
 5. Developer APIs & SDKs: Seamless integration into existing robotics platforms.
 
