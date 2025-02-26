@@ -2,7 +2,9 @@
 
 ## **Executive Summary**
 
-CubeFlow is a **device-cloud collaborative, AI-powered robotics platform**. It integrates **robotic data management (RDM)**, **robotic foundation models (RFM)**, and **robotic simulation testing/training (RST)** into an end-to-end **robot learning system (RLS)**. 
+CubeFlow is a **device-cloud collaborative, AI-powered robotics platform**. 
+
+It integrates **robotic data management (RDM)**, **robotic foundation models (RFM)**, and **robotic simulation testing/training (RST)** into an end-to-end **robot learning system (RLS)**. 
 
 ## **Problem Statement**
 
@@ -12,6 +14,8 @@ CubeFlow is a **device-cloud collaborative, AI-powered robotics platform**. It i
 - Limited real-time learning and adaptation in real-world environments.
 
 ## **Architecture**  
+
+cubeflow edge  <--->  cubeflow cloud
 
 ### **RDM – Robotic Data Management**
 
