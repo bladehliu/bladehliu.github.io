@@ -2,63 +2,63 @@
 
 ## **1. Executive Summary**
 
-CubeFlow is a cloud-native, AI-powered robotics platform that enables embodied AI agents (robots, drones, and smart devices) to perceive, reason, and act in real-world environments. 
-It provides an integrated solution for data ingestion, AI-driven decision-making, and multi-robot orchestration, making it a foundational platform for autonomous systems across industries.
-
-Our mission is to power the next generation of intelligent robotics by combining cutting-edge AI models, cloud-edge collaboration, and scalable robotic data storage to create adaptable and scalable robotic ecosystems.
+CubeFlow is a **device-cloud collaborative, AI-powered robotics platform**. It integrates **robotic data management (RDM)**, **robotic foundation models (RFM)**, and **robotic simulation testing/training (RST)** into an end-to-end **robot learning system (RLS)**. 
 
 ## **2. Problem Statement & Market Opportunity**
 
 ### **Market Gap**
 
-- Traditional robotics platforms lack advanced AI decision-making and multi-agent coordination.
+- Traditional robotics platforms lack advanced AI and multi-agent coordination.
 - Current AI-driven robotics solutions are fragmented and difficult to scale.
 - Data management for embodied AI is complex, inefficient, and lacks standardization.
 - Limited real-time learning and adaptation in real-world environments.
 
-### **Market Size & Opportunity**
+### **Market Size**
 
 - The global robotics market is projected to reach \$275B by 2030.
 - The AI in robotics market is expected to grow at over 35% CAGR.
 - Key growth areas: autonomous mobile robots (AMRs), industrial automation, smart logistics, and AI-powered service robots.
 
-## **3. Solution: CubeFlow’s Embodied AI Platform**
 
-CubeFlow is a **data-driven AI platform** designed to manage perception, reasoning, and action in autonomous systems.
+## **3. Architecture**  
 
-### **Core Components & Architecture**  
+### **RDM – Robotic Data Management**
 
-#### **(A) AI Stack**
-🔹 **Perception Layer**: Processes multimodal data (vision, audio, touch, etc.) from robots’ sensors.  
-🔹 **Reasoning Layer**: Uses Vision-Language-Action (VLA) models, Reinforcement Learning (RL), and classical AI planning for decision-making.  
-🔹 **Action Layer**: Controls actuators and motor functions to execute decisions.  
+#### **Purpose:**
 
-#### **(B) Storage & Data Layer**
-🔹 **Real-Time Data Ingestion**: Captures and organizes sensor data, logs, and robot trajectories.  
-🔹 **Metadata & Indexing**: Labels & annotations for efficient retrieval and AI training.  
+Manages **robotic sensor data ingestion, storage, and retrieval** for AI model training and inference.
 
+#### **Key Features:**
 
-#### **(C) Cloud-Native Robotics Orchestration**
+- **Multimodal Data Handling:** Vision, LiDAR, IMU, depth sensors, etc.
+- **Metadata Indexing & Querying:** Enables efficient data search & retrieval.
+- **Real-Time Streaming & Processing:** Supports AI-powered inference at the edge.
 
-🔹 **Simulation**: Uses physics-based environments (Isaac Sim, Habitat) for reinforcement learning.  
-🔹 **Fleet Management**: Manages distributed robot clusters via edge-cloud communication.  
-🔹 **Multi-Agent Coordination**: Enables robots to collaborate using shared intelligence. 
+### **RFM – Robotic Foundation Models**
 
-#### **(D) Dev Tools**
-🔹 **Robotics Middleware**: Interfaces with ROS2 and custom firmware.  
-🔹 **AI-Driven Autonomy API**: Provides perception-to-action pipelines for developers.  
+#### **Purpose:**
 
----
+Provides AI models for **robotic perception, reasoning, and action**.
 
-### **Key Features**
-✅ **End-to-End Robotics Data Management**
+#### **Key Features:**
 
-✅ **Vision-Language-Action (VLA) AI Models**: For human-like reasoning and interaction.   
+- **Vision-Language-Action (VLA) Models:** 
+- **Reinforcement Learning & Imitation Learning:** 
+- **Multi-Agent AI Collaboration:** Enables robotic fleet coordination.
+- **Model Deployment & Continuous Adaptation:** Fine-tunes AI models based on real-world feedback.
 
-✅ **Adaptive Learning & Continuous Training**: Robots learn from real-world experience.  
+### **RST – Robotic Simulation Testing/Training**
 
-✅ **Hybrid Edge-Cloud AI**: Inference runs on low-latency edge devices and training on the cloud.
+#### **Purpose:**
 
+Provides **physics-based simulations** for AI training, validation, and safety testing before real-world deployment.
+
+#### **Key Features:**
+
+- **High-Fidelity Physics Simulations:** Uses NVIDIA Isaac Sim, Habitat, Mujoco, etc.
+- **Synthetic Data Generation:** Expands datasets for model training.
+- **Sim2Real Transfer:** Ensures models generalize to real-world applications.
+- **Multi-Agent Testing:** Supports collaborative robotic scenarios.
 
 
 ## **4. Competitive Advantage**
