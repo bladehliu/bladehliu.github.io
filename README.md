@@ -2,16 +2,18 @@
 
 [LinkedIn](https://www.linkedin.com/in/haifeng-liu)
 
-技术领域：云与数据，电商架构，搜索，AI与机器人工程
+技术领域：搜索，电商，云与数据，AI与机器人系统
+
 * 中国科学技术大学计算机专业本硕博
 * 曾获得北京市科技进步奖
 * 曾担任云原生计算基金会（CNCF）全球理事
-* 开源云原生存储CubeFS及向量搜索Vearch的创始人
+* 设计并开发开源云原生存储CubeFS及向量搜索Vearch
 * 在KDD, Middleware, SIGCSE, SIGMOD, SIGIR, WWW 等国际会议发表论文多篇
 
 ### 工作履历
 
 2025 - 至今，Robotics Startup
+* 数据+模型+软件系统
 
 2020 - 2024，OPPO
 * 担任互联网CTO、数据与AI工程事业部总裁
