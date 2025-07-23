@@ -6,9 +6,9 @@
 
 * 中科大校友，计算机专业
 * 曾获得北京市科技进步奖
-* 曾担任CNCF云原生计算基金会全球理事
-* CNCF毕业项目、开源云存储[CubeFS](https://github.com/cubefs/cubefs)创始人
-* 在NAR, ACM SIGCSE/SIGIR/SIGMOD, KDD, Middleware, WWW 等国际会议发表论文多篇
+* 曾担任云原生计算基金会（CNCF）全球理事
+* 开源分布式存储[CubeFS](https://github.com/cubefs/cubefs)创始人
+* 在 ACM SIGCSE/SIGIR/SIGMOD, KDD, Middleware, NAR，WWW 等国际会议发表论文多篇
 
 ### 工作履历
 
@@ -27,4 +27,9 @@
 2008 - 2013，百度，Yahoo!，盛大等公司
 * 历任工程师、高级工程师、架构师、研发经理，开发存储系统、搜索与广告系统、云计算系统
 
+### 教育背景
 
+2000 - 2008，中国科学技术大学计算机系，获得工学硕士、工学学士及经济管理第二学士学位。
+* 曾获优秀学生奖学金、光华专项奖学金
+* 本科期间共同发表论文 "The interactome as a tree" in NAR
+* 研究生期间开发微内核操作系统，并发表论文 "BabyOS: a fresh start" in ACM SIGCSE
