@@ -2,13 +2,13 @@
 
 [LinkedIn](https://www.linkedin.com/in/haifeng-liu)
 
-技术经验：操作系统，云计算，电商，搜索与推荐，AI Agents，机器人
+技术经验：操作系统，搜索，电商，云与数据，AI Agents，机器人
 
 * 中科大校友，计算机专业
 * 曾获得北京市科技进步奖
 * 曾担任云原生计算基金会（CNCF）全球理事
-* 创立开源分布式存储[CubeFS](https://github.com/cubefs/cubefs)与开源视觉搜索[Vearch](https://github.com/vearch/vearch)
-* 在 ACM SIGCSE/SIGIR/SIGMOD, KDD, Middleware, NAR，WWW 等国际会议发表论文多篇
+* 创立开源分布式存储 CubeFS 与开源视觉搜索 Vearch
+* 在 ACM SIGCSE/SIGIR/SIGMOD, KDD, Middleware, NAR, WWW 等国际会议发表论文多篇
 
 ### 工作履历
 
@@ -29,8 +29,9 @@
 
 ### 开源项目
 
-* CubeFS - 2018年主持设计开发并持续维护，2024年成为CNCF毕业项目，应用至众多企业作为云原生存储底座
-* Vearch - 2019年主持设计开发并持续维护，由开源原子基金会托管，应用至众多企业作为向量搜索系统
+2018 - 至今，[CubeFS](https://github.com/cubefs/cubefs)，2024年成为CNCF毕业项目，应用至众多企业作为云原生存储底座
+
+2019 - 至今，[Vearch](https://github.com/vearch/vearch)，由开源原子基金会托管，应用至众多企业作为向量数据库及视觉搜索系统
   
 ### 教育背景
 
