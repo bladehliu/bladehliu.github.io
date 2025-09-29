@@ -1,6 +1,9 @@
 ### 刘海锋 
 
-[LinkedIn](https://www.linkedin.com/in/haifeng-liu)
+[Goolge Scholar](https://scholar.google.com/citations?hl=en&user=WOvyMIUAAAAJ) 
+
+[LinkedIn](https://www.linkedin.com/in/haifeng-liu) 
+
 
 技术经验：操作系统，搜索，电商，云与数据，人工智能与机器人
 
