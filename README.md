@@ -37,7 +37,6 @@
 
 2019 - 至今，[Vearch](https://github.com/vearch/vearch)，由开源原子基金会托管，应用至众多企业作为向量数据库及视觉搜索系统
 
-2024 - 至今，[Rafe](https://github.com/rafebot)，robotic agent framework engine
   
 ### 教育背景
 
