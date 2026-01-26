@@ -5,14 +5,12 @@
 [LinkedIn](https://www.linkedin.com/in/haifeng-liu) 
 
 
-技术经验：操作系统，搜索，电商，云与数据，人工智能与机器人
-
-* 中科大校友，计算机专业
+* 10 年 AI Assistants/Agents 产品技术经验
+* 创立开源分布式存储 CubeFS 与开源视觉搜索 Vearch
 * 曾获得北京市科技进步奖
 * 曾担任云原生计算基金会（CNCF）全球理事
-* 创立开源分布式存储 CubeFS 与开源视觉搜索 Vearch
-* 在 ACM SIGCSE/SIGIR/SIGMOD, KDD, Middleware, NAR, WWW 等国际会议发表论文多篇
-* 10 年 AI Assistants/Agents 产品技术经验
+* 中科大北京校友会理事
+
 
 ### 工作履历
 
