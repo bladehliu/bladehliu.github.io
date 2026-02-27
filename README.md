@@ -1,8 +1,8 @@
 ### 刘海锋 
 
-[Goolge Scholar](https://scholar.google.com/citations?hl=en&user=WOvyMIUAAAAJ) 
-
 [LinkedIn](https://www.linkedin.com/in/haifeng-liu) 
+
+[Goolge Scholar](https://scholar.google.com/citations?hl=en&user=WOvyMIUAAAAJ) 
 
 
 * 多年 AI Assistants/Agents/Robots 产品技术经验
@@ -15,13 +15,13 @@
 ### 工作履历
 
 2025 - 至今，LimX Dynamics
-* 合伙人，负责具身智能体系统 COSA 
+* 合伙人，负责人形机器人软件以及具身智能体系统 COSA 
 
 2025 - 2025，安克创新
 * 机器人平台 CTO，参与搭建具身智能团队
 
 2020 - 2024，OPPO
-* 先后担任互联网CTO、人工智能与数据工程事业部（Andes）总裁
+* 先后担任互联网CTO、数智工程事业部（Andes）总裁
 * 负责智能助理“小布”、推荐算法、营销技术、端云机器学习系统、大数据平台、全球混合云、安全与隐私
 * 主持研发小布家庭机器人、安第斯智能云 AndesBrain、安第斯大模型及智能体 AndesGPT
 
