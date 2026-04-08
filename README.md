@@ -1,4 +1,4 @@
-### 刘海锋 
+### Feng
 
 [LinkedIn](https://www.linkedin.com/in/haifeng-liu) 
 
@@ -14,11 +14,8 @@
 
 ### 工作履历
 
-2025 - 至今，LimX Dynamics
-* 具身系统负责人
-
-2025 - 2025，安克创新
-* 机器人平台 CTO
+2025 - 2026，具身智能创业团队
+* 软件系统负责人
 
 2020 - 2024，OPPO
 * 先后担任互联网CTO、数智工程事业部（Andes）总裁
