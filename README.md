@@ -1,16 +1,16 @@
 ### Feng
 
-[LinkedIn](https://www.linkedin.com/in/haifeng-liu) 
+[LinkedIn](https://www.linkedin.com/in/fenglingai/) 
 
 [Goolge Scholar](https://scholar.google.com/citations?hl=en&user=WOvyMIUAAAAJ) 
 
 
-* 多年 AI Assistants/Agents/Robots 产品技术经验
+* 搜索/云计算/数据算法/具身智能与机器人产品技术经验
 * 创立开源分布式存储 CubeFS 与开源视觉搜索 Vearch
-* 曾获得北京市科技进步奖
+* 曾获得北京市科技进步二等奖
 * 曾担任云原生计算基金会（CNCF）全球理事
 * 中科大北京校友会理事
-
+* 南方科技大学电子系研究生导师
 
 ### 工作履历
 
@@ -20,7 +20,7 @@
 2020 - 2024，OPPO
 * 先后担任互联网CTO、数智工程事业部（Andes）总裁
 * 负责智能助理“小布”、推荐算法、营销技术、端云机器学习系统、大数据平台、全球混合云、安全与隐私
-* 主持研发小布家庭机器人、安第斯智能云 AndesBrain、安第斯大模型及智能体 AndesGPT
+* 主持研发小布家庭机器人(2022)、安第斯智能云 AndesBrain、安第斯大模型及智能体 AndesGPT
 
 2013 - 2020，京东
 * 历任副总监（2013）、总监（2014）、高级总监（2016）、技术副总裁与一级部门负责人（2017）
