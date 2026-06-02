@@ -1,4 +1,4 @@
-### Feng
+### Havi Lau
 
 [LinkedIn](https://www.linkedin.com/in/fenglingai/) 
 
@@ -15,7 +15,7 @@
 ### 工作履历
 
 2024 - 2026，机器人创业团队
-* 构建机器人平台与具身智能系统
+* 构建机器人数据闭环、软件平台与具身Agent系统
 
 2020 - 2024，OPPO
 * 先后担任互联网CTO、数智工程事业部（Andes）总裁
