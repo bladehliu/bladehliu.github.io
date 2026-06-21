@@ -35,7 +35,7 @@
 
 2018 - 至今，[CubeFS](https://github.com/cubefs/cubefs)，2024年成为CNCF毕业项目，应用至众多企业作为云原生存储底座
 
-2019 - 至今，[Vearch](https://github.com/vearch/vearch)，由开源原子基金会托管，应用至众多企业作为向量数据库及视觉搜索系统
+2019 - 至今，[Vearch](https://github.com/vearch/vearch)，由开放原子基金会托管，应用至众多企业作为向量数据库及视觉搜索系统
 
   
 ### 教育背景
